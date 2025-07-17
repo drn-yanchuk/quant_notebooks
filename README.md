@@ -6,7 +6,7 @@
 
 ### 1. Quantitative Finance – Option Pricing Assignment
 - Covers Monte Carlo simulations, Black-Scholes, and Greeks
-- [Notebook ↗️](./QuantFinance_Assignment1_Yanchuk.ipynb)
+- [Notebook ↗️](./Assignment1_D_Yanchuk.ipynb)
 
 ## 🔧 Tools
 - Python, NumPy, Matplotlib, SciPy
