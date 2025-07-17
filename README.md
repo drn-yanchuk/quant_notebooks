@@ -1,6 +1,6 @@
 # Quant Notebooks
 
-📈 A collection of notebooks from my studies and passion projects in quantitative finance.
+📈 A collection of notebooks from my studies and random projects in quantitative finance.
 
 ## 📘 Contents
 
